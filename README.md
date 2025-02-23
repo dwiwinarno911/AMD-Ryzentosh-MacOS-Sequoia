@@ -7,7 +7,7 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 Also I take no responsiblity about federal law on several country
 
 ## Important information
-* This EFI I create sprecialy for MacOS Sequioa, never tested with older MacOS Version
+* This EFI I create for MacOS Sequioa, never tested with older MacOS Version
 
 ## Specification
 
