@@ -4,6 +4,7 @@
 
 ## Disclaimer
 Use at your own risk. I take no responsiblity if your rig explodes. Create unique SMBios values for your rig. Don't copy ones shown in the config.plist!!!
+Also I take no responsiblity about federal law on several country
 
 ## Important information
 * This EFI I create sprecialy for MacOS Sequioa, never tested with older MacOS Version
